@@ -46,18 +46,6 @@ Soy estudiante avanzado de **Ingeniería en Sistemas** en la Universidad Abierta
 
 ---
 
-###  Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgnaCriscenti&show_icons=true&theme=radical&hide_border=true&bg_color=1f2428" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnaCriscenti&layout=compact&theme=radical&hide_border=true&bg_color=1f2428" alt="Top Languages" />
-</div>
-
----
-
 ###  ¿Cómo contactarme?
 
 <p>
